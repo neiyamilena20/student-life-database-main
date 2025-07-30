@@ -30,3 +30,10 @@ Seule la version **clean** (nettoyée des erreurs et incohérences à l’aide d
 1. Cloner le dépôt :  
 ```bash
 git clone https://github.com/neiyamilena20/student-life-database-main.git
+
+--------------------------------------------------------------------
+
+## Autres
+ℹ️ Ce projet a d'abord été développé dans un dépôt précédent (`student-life-database`).  
+Ce nouveau dépôt contient la version finale et propre destinée à être intégrée à mon portfolio.
+
