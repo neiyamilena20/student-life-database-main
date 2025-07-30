@@ -33,6 +33,5 @@ Seule la version **clean** (nettoyée des erreurs et incohérences à l’aide d
 ```bash
 git clone https://github.com/neiyamilena20/student-life-database-main.git
 
---------------------------------------------------------------------
 
 
