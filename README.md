@@ -14,6 +14,8 @@ Il illustre la transformation, la structuration, la visualisation et l’inserti
 - tables_SQL/ : scripts SQL pour créer la structure des tables dans la base de données.
 - .gitignore : fichier pour ignorer certains fichiers non pertinents dans le dépôt.
 - README.md : ce fichier.
+*PS : Ce projet a d'abord été développé dans un dépôt précédent (`student-life-database`).  
+Ce nouveau dépôt contient la version finale et propre destinée à être intégrée à mon portfolio.*
 
 --------------------------------------------------------------------
 
@@ -33,7 +35,4 @@ git clone https://github.com/neiyamilena20/student-life-database-main.git
 
 --------------------------------------------------------------------
 
-## Autres
-ℹ️ Ce projet a d'abord été développé dans un dépôt précédent (`student-life-database`).  
-Ce nouveau dépôt contient la version finale et propre destinée à être intégrée à mon portfolio.
 
