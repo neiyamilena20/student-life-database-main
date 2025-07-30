@@ -1,0 +1,13 @@
+.DS_Store
+
+# Environnement Python
+venv/
+__pycache__/
+*.pyc
+
+# Fichiers temporaires
+*.log
+
+#Données brutes
+data/student_depression_dataset.csv
+
