@@ -25,13 +25,7 @@ Les données originales proviennent de Kaggle : (https://www.kaggle.com/datasets
 Seule la version **clean** (nettoyée des erreurs et incohérences à l’aide de Power Query) est incluse ici, dans le dossier `data/`, afin de garantir la légèreté du dépôt.
 
 
---------------------------------------------------------------------
 
-## Usage
-
-1. Cloner le dépôt :  
-```bash
-git clone https://github.com/neiyamilena20/student-life-database-main.git
 
 
 
