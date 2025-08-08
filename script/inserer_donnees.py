@@ -4,7 +4,7 @@ from sqlalchemy.exc import SQLAlchemyError
 
 # Connexion
 try:
-    engine = create_engine("postgresql://postgres:Solene33@localhost:5434/student_life")
+    engine = create_engine("postgresql://postgres:1234@localhost:5432/student_life")
     print("Connexion à la base PostgreSQL réussie.")
 except Exception as e:
     print("Erreur de connexion à PostgreSQL :", e)
@@ -21,11 +21,11 @@ except Exception as e:
 
 # Charger les fichiers
 try:
-    person_df = pd.read_csv("person.csv")
-    city_df = pd.read_csv("city.csv")
-    profession_df = pd.read_csv("profession.csv")
-    mentalhealth_df = pd.read_csv("mental_health.csv")
-    academicwork_df = pd.read_csv("academic_work.csv")
+    person_df = pd.read_csv("data\person.csv")
+    city_df = pd.read_csv("data\city.csv")
+    profession_df = pd.read_csv("data\profession.csv")
+    mentalhealth_df = pd.read_csv("data\mental_health.csv")
+    academicwork_df = pd.read_csv("data\\academic_work.csv")
     print("Tous les fichiers CSV ont été chargés.")
 except Exception as e:
     print("Erreur lors du chargement des fichiers CSV :", e)
